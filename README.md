@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 ## Overview
-Welcome to my GitHub repository! I am a Data Scientist and Machine Learning student at IIT Madras specializing in Natural Language Processing (NLP) and Data Analytics. This repository contains a collection of my projects, experiments, and contributions to the field.
+Welcome to my GitHub repository! I am a Data Science student at IIT Madras. I have a keen interest in Natural Language Processing (NLP) and Data Analytics. This repository contains a collection of my projects, experiments, and contributions to the field.
 
 ## Repository Structure:
 Projects: This directory contains various data science and machine learning projects. Each project has its own folder with detailed documentation.
-Notebooks: This directory includes Jupyter notebooks that demonstrate different techniques and experiments in NLP and data analytics.
-Scripts: Standalone scripts for data processing, model training, and evaluation.
+app: main app script
 Datasets: Sample datasets used in the projects and notebooks.
 Docs: Documentation for the projects and scripts.
+requirements: This contains major requirements
 
 ## Projects:
 1. IIT Madras BS degree chatbot
