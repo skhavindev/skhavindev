@@ -42,11 +42,7 @@
 
 
 <a href="https://github.com/skhavindev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skhavindev&repo=TheDudeThatCode&theme=dark" />
-</a>
-
-<a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skhavindev&repo=Fun-with-DS-and-Algo&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skhavindev&repo=skhavindev&theme=dark" />
 </a>
 
 <br>
