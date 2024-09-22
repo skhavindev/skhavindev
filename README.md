@@ -41,10 +41,6 @@
 </a>
 
 
-<a href="https://github.com/skhavindev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skhavindev&repo=skhavindev&theme=dark" />
-</a>
-
 <br>
 <!--
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=skhavindev&show_icons=true&hide_border=true)
