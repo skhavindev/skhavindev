@@ -33,7 +33,7 @@
 <br>
 
 <a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skhavindeb&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skhavindev&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/TheDudeThatCode">
