@@ -48,7 +48,7 @@
 
 <br>
 
-<img src="https://media1.tenor.com/m/r3MeBihAouQAAAAC/cherry-blossom-anime.gif" alt="Mario Game" width="980" height="280">
+<img src="https://media1.tenor.com/m/d_gDzJHdTGEAAAAC/summertime.gif" alt="Mario Game" width="980" height="280">
 
 <br>
 
