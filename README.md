@@ -44,16 +44,6 @@
 
 ---
 
-<h3 align="center">🌐 Connect with Me 🌐</h3>
-<p align="center">
-  <!-- Add links to social media or other platforms here -->
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/></a>
-</p>
-
----
-
 <h3 align="center">⚙️ Languages and Tools ⚙️</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
