@@ -44,7 +44,7 @@
 
 ---
 
-<h2 align="center"> <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="24px"> /> Personal Website ; &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h2>
+<h2 align="center"> <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="24px">  🍹Personal Website🪄  &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h2>
 
 <p align="center">
   🚀 <a href="https://www.hypercomputing.tech" target="_blank"><strong>Visit https://hypercomputing.tech</strong></a> 🚀
